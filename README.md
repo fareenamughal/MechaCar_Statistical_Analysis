@@ -9,7 +9,7 @@ ___
 
 MechaCar_mpg.csv contains mpg data results for 50 MechaCar types. Design specifications were based on differing vehicle lengths, vehicle weight, spoiler angle, ground clearance and drivetrain. Linear regression model was used to predict the impact of these design specifications or variables on the mpg of MechaCars.
 
-![MechaCar_lm_summary]
+![MechaCar_lm_summary](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/1f979b0a2e6c9a1675f1532bd0c5250b429c07ce/Resources/MechaCar_lm_summary.png)
 
 
 
