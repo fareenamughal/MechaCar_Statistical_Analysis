@@ -23,13 +23,13 @@ ___
 ## Part 2: Visualizations for the Trip Analysis
 ___
 
-Suspensionn Coils - Total Summary
+### Suspensionn Coils - Total Summary
 
 ![Suspension Coils Total Summary](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/698a02c65e81bae00407439bf43c3d0a8f999640/Resources/Total_summary.png)
 
 
 
-Suspensionn Coils - Lot Summary
+### Suspensionn Coils - Lot Summary
 
 ![Suspension Coils Lot Summary](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/698a02c65e81bae00407439bf43c3d0a8f999640/Resources/Lot_summary.png)
 
