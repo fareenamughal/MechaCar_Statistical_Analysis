@@ -41,4 +41,11 @@ However, reviewing the lot summary, Lot 1 and Lot 2 are within the 100 PSI and t
 The current manufacturing data meets the design specifications for all manufacturing lots in total but individually only meets design specifications for lot 1 and 2 and does not meet design specifications for lot 3 as lot 3 has a large PSI variance of 170.2861.
 
 ## T-Tests on Suspension Coils
+
+### PSI for all manufacturing lots
+
+![PSI for all manufacturing lots](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/2e54db933981e6ec9cd1d673f5f4fdba8a1a143b/Resources/All%20lots%20PSI%20summary.png)
+
+### PSI for each manufacturing lot
+
 ![Lot PSI's](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/1597787a7dbf85f548fb397777d5d46f61706a33/Resources/Lots%20PSI.png)
