@@ -59,4 +59,6 @@ PSI for each manufacturing lot
  3. PSI for lot 3 - true mean is 1496.14, p-value is 0.04 which is slightly lower than the assumed 0.05. This means we have sufficient evidence to reject the null hypothesis. However, lot 3's mean (1496.14) is not too different from population mean of 1500. This indicates that there may be a need for a further quality review. Lot 3 needs to be rechecked for suspension failures and defective suspension coils need to be removed.
 
 
+## Part 4: Design a Study Comparing the MechaCar to the Competition
+
 
