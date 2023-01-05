@@ -49,3 +49,9 @@ The current manufacturing data meets the design specifications for all manufactu
 ### PSI for each manufacturing lot
 
 ![Lot PSI's](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/1597787a7dbf85f548fb397777d5d46f61706a33/Resources/Lots%20PSI.png)
+
+This sample's true mean is 1498.78, p-value is 0.06 which is slightly higher than the assumed 0.05. This means we do not have sufficient evidence to reject the null hypothesis, which is turn means that, statistically the mean of all the 3 manufacturing lots is similar to the population mean of 1500.
+
+
+Written Summary
+briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
