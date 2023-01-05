@@ -67,15 +67,16 @@ ___
 ___
 
 I have incorporated some of the features I consider when purchasing a vehicle. I would compare the below listed features against the purchase price for different vehiches or competing car manufactures.
-### Features
-Purchase price - Dependent Variable
-Reliability/safety/build quality -Independent Variable
-Comfort - Independent Variable though a subjective one
-Engine type (Gas,diesel, electric or hybrid )- Independent Variable
-Speed or CC rating - Independent variable
-MPG - efficiency - Independent Variable
-Maintenance costs - Independent Variable
-Resale value - Independent Variable
+
+#### Features
+1. Purchase price - Dependent Variable
+2. Reliability/safety/build quality -Independent Variable
+3. Comfort - Independent Variable though a subjective one
+4. Engine type (Gas,diesel, electric or hybrid )- Independent Variable
+5. Speed or CC rating - Independent variable
+6. MPG - efficiency - Independent Variable
+7. Maintenance costs - Independent Variable
+8. Resale value - Independent Variable
 
 The study design would involve a statistical test which would state a null and an alternative hypothesis. The above listed features would be tested against the null and alternative hypothesis. Though, I would determine what features are considered more important and base my testing on key features. For instance for me this would be the overall cost of owning and maintaining the vehicle.
 
