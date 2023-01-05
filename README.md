@@ -27,11 +27,18 @@ ___
 
 ![Suspension Coils Total Summary](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/698a02c65e81bae00407439bf43c3d0a8f999640/Resources/Total_summary.png)
 
-Based on the total summary for suspension coils above, it is clear that the variance PSI for the coils is 
 
 ### Suspensionn Coils - Lot Summary
 
 ![Suspension Coils Lot Summary](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/698a02c65e81bae00407439bf43c3d0a8f999640/Resources/Lot_summary.png)
+
+
+
+Based on the total summary for suspension coils above, it is clear that the variance PSI for the coils is 62.29356 which is well within the  design specifications for the MechaCar suspension coils, which dictates that the variance of the suspension coils must not exceed 100 pounds per square inch.
+
+However, reviewing the lot summary, Lot 1 and Lot 2 are within the 100 PSI and their PSI variances are 0.98 and 7.469 respectively. On the other hand Lot 3 has a PSI variance of 170.2861. This is most likely increasing the variance for the full lot.
+
+
 
 in your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
 
