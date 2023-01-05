@@ -46,7 +46,7 @@ The current manufacturing data meets the design specifications for all manufactu
 
 ![PSI for all manufacturing lots](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/2e54db933981e6ec9cd1d673f5f4fdba8a1a143b/Resources/All%20lots%20PSI%20summary.png)
 
-This sample's true mean is 1498.78, p-value is 0.06 which is slightly higher than the assumed 0.05. This means we do not have sufficient evidence to reject the null hypothesis, which is turn means that, statistically the mean of all the 3 manufacturing lots is similar to the population mean of 1500.
+PSI for all manufacturing lots - This sample's true mean is 1498.78, p-value is 0.06 which is slightly higher than the assumed 0.05. This means we do not have sufficient evidence to reject the null hypothesis, which is turn means that, statistically the mean of all the 3 manufacturing lots is similar to the population mean of 1500.
 
 
 ### PSI for each manufacturing lot
