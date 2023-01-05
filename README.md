@@ -40,7 +40,10 @@ However, reviewing the lot summary, Lot 1 and Lot 2 are within the 100 PSI and t
 
 The current manufacturing data meets the design specifications for all manufacturing lots in total but individually only meets design specifications for lot 1 and 2 and does not meet design specifications for lot 3 as lot 3 has a large PSI variance of 170.2861.
 
-## T-Tests on Suspension Coils
+___
+
+## Part 3: T-Tests on Suspension Coils
+___
 
 ### PSI for all manufacturing lots
 
@@ -58,7 +61,26 @@ PSI for each manufacturing lot
  2. PSI for lot 2 - true mean is 1500.02, p-value is 0.6072 - we do not have sufficient evidence to reject the null hypothesis,  and the mean of lot 2 (1500.02) is essestially similar to the population mean (1500).
  3. PSI for lot 3 - true mean is 1496.14, p-value is 0.04 which is slightly lower than the assumed 0.05. This means we have sufficient evidence to reject the null hypothesis. However, lot 3's mean (1496.14) is not too different from population mean of 1500. This indicates that there may be a need for a further quality review. Lot 3 needs to be rechecked for suspension failures and defective suspension coils need to be removed.
 
+___
 
-## Part 4: Design a Study Comparing the MechaCar to the Competition
+## Part 4: Study Design: MechaCar vs Competition
+___
+
+I have incorporated some of the features I consider when purchasing a vehicle. I would compare the below listed features against the purchase price for different vehiches or competing car manufactures.
+### Features
+Purchase price - Dependent Variable
+Reliability/safety/build quality -Independent Variable
+Comfort - Independent Variable though a subjective one
+Engine type (Gas,diesel, electric or hybrid )- Independent Variable
+Speed or CC rating - Independent variable
+MPG - efficiency - Independent Variable
+Maintenance costs - Independent Variable
+Resale value - Independent Variable
+
+The study design would involve a statistical test which would state a null and an alternative hypothesis. The above listed features would be tested against the null and alternative hypothesis. Though, I would determine what features are considered more important and base my testing on key features. For instance for me this would be the overall cost of owning and maintaining the vehicle.
+
+If narrowed down - purchase price is a major factor and I would test this feature. The statistical model would most likely be a multiple linear regression model whereby my null hypothesis (Ho) would be - MechaCar is priced correctly as it provides value for money for the features it provides. Whilst the alternate hypothesis (Ha) would be - MechaCar does not provide value for money and is not correctly priced for the features it provides.
+
+I would obtain data from various car manufacturers for at least the last 2 years if not 3, wrangle and tranform the data and then use it to test my null and alternate hypothesis. 
 
 
