@@ -68,7 +68,7 @@ ___
 
 I have incorporated some of the features I consider when purchasing a vehicle. I would compare the below listed features against the purchase price for different vehiches or competing car manufactures.
 
-#### Features
+Features
 1. Purchase price - Dependent Variable
 2. Reliability/safety/build quality -Independent Variable
 3. Comfort - Independent Variable though a subjective one
