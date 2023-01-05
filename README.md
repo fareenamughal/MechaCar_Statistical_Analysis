@@ -27,7 +27,7 @@ ___
 
 ![Suspension Coils Total Summary](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/698a02c65e81bae00407439bf43c3d0a8f999640/Resources/Total_summary.png)
 
-
+Based on the total summary for suspension coils above, it is clear that the variance PSI for the coils is 
 
 ### Suspensionn Coils - Lot Summary
 
