@@ -53,8 +53,10 @@ PSI for all manufacturing lots - This sample's true mean is 1498.78, p-value is 
 
 ![Lot PSI's](https://github.com/fareenamughal/MechaCar_Statistical_Analysis/blob/1597787a7dbf85f548fb397777d5d46f61706a33/Resources/Lots%20PSI.png)
 
+PSI for each manufacturing lot
+ 1. PSI for lot 1 - true mean for lot 1 is 1500, p-value is 1. P-value of 1 means we do not have sufficient evidence to reject the null hypothesis. Statistically the mean of lot 1 is the same as the population mean of 1500.
+ 2. PSI for lot 2 - true mean is 1500.02, p-value is 0.6072 - we do not have sufficient evidence to reject the null hypothesis,  and the mean of lot 2 (1500.02) is essestially similar to the population mean (1500).
+ 3. PSI for lot 3 - true mean is 1496.14, p-value is 0.04 which is slightly lower than the assumed 0.05. This means we have sufficient evidence to reject the null hypothesis. However, lot 3's mean (1496.14) is not too different from population mean of 1500. This indicates that there may be a need for a further quality review. Lot 3 needs to be rechecked for suspension failures and defective suspension coils need to be removed.
 
 
 
-Written Summary
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
